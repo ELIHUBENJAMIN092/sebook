@@ -1,0 +1,6 @@
+@SEBOOK.Bakend_HostAddress = http://localhost:5252
+
+GET {{SEBOOK.Bakend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
